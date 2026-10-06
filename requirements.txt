@@ -1,0 +1,16 @@
+1. Problem Statement
+Your first real program. Build a Python program that stores student marks, works out each
+student's grade, and prints the results clearly. It runs in the terminal, no web framework, nothing to
+install. The interesting part is not the arithmetic; it is how you store the data and what you do with
+silly input.
+Tools: Python only
+
+2. Grading scale to implement
+Mark range
+Grade
+90 to 100 A
+80 to 89 B
+70 to 79 C
+60 to 69 D
+Below 60 E
+Boundaries are inclusive: exactly 90 is an A, exactly 80 is a B.
